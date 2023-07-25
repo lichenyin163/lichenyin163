@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @lichenyin163
-- 👀 I’m interested in Java.
-- 🌱 I’m currently learning Java.
-- Avid Java learner. As a Computer Science student, I'm dedicated to improving and contributing to the developer community.
+- 👀 I’m interested in Java.Avid Java learner.I’m currently learning Java.
+- 🌱 As a Computer Science student, I'm dedicated to improving and contributing to the developer community.
